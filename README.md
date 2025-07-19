@@ -14,4 +14,4 @@ Software testing portfolio (manual and entry-level automation). Includes real te
 
 ## Contact
 
-For more info, contact me at email@example.com
+For more info, contact me at tuiu.andreiqa@gmail.com
